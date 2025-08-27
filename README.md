@@ -1,3 +1,5 @@
+![Demo](https://i.imgur.com/WIPOBav.png)
+
 # ⚡️ Vulners Lookup for Chrome
 
 Chrome extension that highlights CVE identifiers and displays critical information directly on any webpage. No need to navigate elsewhere.
